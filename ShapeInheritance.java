@@ -26,14 +26,14 @@
 import java.io.*;
 import java.util.*;
 
-public class Assignment2 {// Driver class header
+public class ShapeInheritance {// Driver class header
 	/**
 	 * Main method: This procedural method is automatically called and is used
 	 * to organize the calling of other methods defined in the class
 	 * 
 	 * Local Variables:
 	 * 
-	 * ass2 - Object used to gain access to non-static methods defined in the class <type Assignment2>
+	 * ass2 - Object used to gain access to non-static methods defined in the class <type 2>
 	 * shapes - ArrayList of type Object used to store the shapes created <type ArrayList>
 	 * br - Object used to get user input <type BufferedReader>
 	 * attribute - String to temporarily store the attribute of the shape the user wishes to create <type String>
